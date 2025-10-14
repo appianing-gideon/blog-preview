@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/)
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- Live Site URL: (https://appianing-gideon.github.io/blog-preview/)
 
 ## My process
 
